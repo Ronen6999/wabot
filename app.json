@@ -1,5 +1,5 @@
 {
-  "name": "WhatsApp-bot",
+  "name": "Elaina-bot",
   "description": "A WhatsApp Bot written in TypeScript using Baileys.",
   "keywords": [
     "bot",
@@ -9,7 +9,7 @@
   ],
   "logo": "https://raw.githubusercontent.com/LuckyYam/WhatsApp-bot/master/assets/images/whatsapp-bot.png",
   "website": "https://github.com/LuckyYam/WhatsApp-bot#readme",
-  "repository": "https://github.com/LuckyYam/WhatsApp-bot.git",
+  "repository": "https://github.com/Ronen6999/wabot.git",
   "success_url": "/",
   "env": {
     "NAME": {
