@@ -1,8 +1,8 @@
 {
-  "name": "whatsapp-bot",
+  "name": "Elaina-bot",
   "version": "0.0.1",
   "description": "A WhatsApp bot written in TypeScript using Baileys",
-  "author": "Lucky Yambem",
+  "author": "Ronen",
   "main": "dist/bot.js",
   "keywords": [
     "bot",
@@ -19,10 +19,10 @@
   "bugs": {
     "url": "https://github.com/LuckyYam/WhatsApp-bot/issues"
   },
-  "homepage": "https://github.com/LuckyYam/WhatsApp-bot",
+  "homepage": "https://github.com/Ronen6999/wabot",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LuckyYam/WhatsApp-bot.git"
+    "url": "https://github.com/Ronen6999/wabot.git"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^4.2.0",
